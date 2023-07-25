@@ -1,0 +1,9 @@
+botocore==1.29.164
+docutils==0.19
+git-remote-codecommit==1.16
+jmespath==1.0.1
+protobuf==4.21.12
+pycparser==2.21
+python-dateutil==2.8.2
+six==1.16.0
+urllib3==1.26.16
