@@ -1,5 +1,10 @@
 # serverless-sagemaker-trigger
 
+> **提示：** 原型项目仅供参考使用，部署生产环境请谨慎。
+
+> **提示：** 当前项目尚未包括sagemaker endpoint的调用逻辑，sagemaker handler中有对应方法的空实现。
+
+
 ## Introduction
 本项目基于AWS Serverless Application Model构建的无服务器架构的应用程序，实现了一个简单的创建，调用和管理机票航班预测推理模型功能。
 需要运行本项目，确保您系统中已经安装以下组件：
